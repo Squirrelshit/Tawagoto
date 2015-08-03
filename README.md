@@ -1,2 +1,2 @@
 # Tawagoto
-A shitty backend that i made please don't use this its horible!
+The Tawagoto backend that is shit please don't use this at all!
